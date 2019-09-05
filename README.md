@@ -1,4 +1,4 @@
-#Hackernews App with React, Apollo, and GraphQL. 
+# Hackernews App with React, Apollo, and GraphQL. 
 
 
 
